@@ -1,0 +1,179 @@
+body{
+    background-image: url("kep2.jpg");
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size: 100%;
+    height: 900px;
+    width: 1900px;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(221, 221, 221);
+    padding-top: 2%;
+}
+h4{
+    text-align: center;
+    color: rgb(221, 221, 221);
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.gomb {
+    color: rgb(0, 0, 0);
+    padding: 16px;
+    font-size: 16px;
+    width: 100px;
+    text-align: center; 
+    margin-left: 160px;   
+  }
+  
+  .menu {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tartalom {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+    margin-left: 160px;
+  }
+  
+  .tartalom a {
+    color: rgb(255, 255, 255);
+    padding: 12px 40px;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+  }
+  .tartalom a:hover {background-color: rgb(170, 170, 170);}
+
+  .menu:hover .tartalom {display: block;}
+
+  .menu:hover .gomb {background-color: #868686;}
+
+
+
+  .gomb2 {
+    color: rgb(0, 0, 0);
+    padding: 16px;
+    font-size: 16px;
+    width: 100px;
+    text-align: center;
+    margin-left: 160px;    
+  }
+  
+  .menu2 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tartalom2 {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+    margin-left: 160px;
+  }
+  
+  .tartalom2 a {
+    color: rgb(255, 255, 255);
+    padding: 12px 40px;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+  }
+  .tartalom2 a:hover {background-color: rgb(170, 170, 170);}
+
+  .menu2:hover .tartalom2 {display: block;}
+
+  .menu2:hover .gomb2 {background-color: #868686;} 
+  
+  
+  
+  
+  .gomb3 {
+    color: rgb(0, 0, 0);
+    padding: 16px;
+    font-size: 16px;
+    width: 150px;
+    text-align: center;
+    margin-left: 800px;    
+  }
+  
+  .menu3 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tartalom3 {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+    margin-left: 800px;
+  }
+  
+  .tartalom3 a {
+    color: rgb(255, 255, 255);
+    padding: 12px 40px;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+  }
+  .tartalom3 a:hover {background-color: rgb(170, 170, 170);}
+
+  .menu3:hover .tartalom3 {display: block;}
+
+  .menu3:hover .gomb3 {background-color: #868686;}
+
+
+
+
+
+  .gomb4 {
+    color: rgb(0, 0, 0);
+    padding: 16px;
+    font-size: 16px;
+    width: 100px;
+    text-align: center;
+    margin-left: 160px;
+  }
+  
+  .menu4 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tartalom4 {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+    margin-left: 160px;
+  }
+  
+  .tartalom4 a {
+    color: rgb(255, 255, 255);
+    padding: 12px 40px;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+  }
+  .tartalom4 a:hover {background-color: rgb(170, 170, 170);}
+
+  .menu4:hover .tartalom4 {display: block;}
+
+  .menu4:hover .gomb4 {background-color: #868686;}
+
+
+
+
+
+  .kep3{  
+    position: relative;
+    padding-left: 920px;
+    padding-top: 50px;
+  }
